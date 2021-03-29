@@ -1,0 +1,28 @@
+
+ Scala is a high level general purpose multi-paradigm programming language termed as better Java that is used to express the common programming patterns in a type-safe, concise and elegant way. Scala is a type-safe JVM language that easily integrates features of functional and object oriented programming languages. The JVM and JavaScript runtimes helps us to build high-performance systems with an easy access to huge ecosystems of libraries and provides support for developing highly concurrent applications.
+ Scala is a programming language released in 2004 by Martin Odersky
+
+A general-purpose, high-level, multi-paradigm programming language
+
+Scala provides support for functional programming approach and purely object oriented language
+
+There is no concept of primitive data as everything is an object in Scala
+
+Scala programs can convert to bytecodes and run on the JVM (Java Virtual Machine)
+
+Scala stands for scalable language and is highly influenced by Java and some other programming languages like Lisp, Haskell, Pizza etc.
+
+There are two ways to write Scala code:
+
+1.  As a Build-Compile-Run project using an IDE
+
+2.  In the Scala REPL (Read Evaluate Print Loop)
+
+
+ The <- operator is called a generator. It generates individual values from a collection.
+
+Now let us look at some variations in loops for the above problem.
+
+For-loop with guard conditions: If-statements inside for-loops are called guard conditions.
+ 
+ 
